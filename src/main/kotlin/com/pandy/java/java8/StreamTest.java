@@ -1,4 +1,4 @@
-package com.pandy.java8;
+package com.pandy.java.java8;
 
 import java.io.IOException;
 import java.nio.charset.Charset;

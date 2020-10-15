@@ -1,4 +1,4 @@
-package com.pandy.java8;
+package com.pandy.java.java8;
 
 public class Dish {
     private final String name;
